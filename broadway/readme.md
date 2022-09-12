@@ -1,0 +1,1 @@
+this project contains information about display and positioning
